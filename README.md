@@ -9,6 +9,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YeHaoran-KL&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+## How to Reach Me
+Haoran-Ye@outlook.com
+
 ## Recent Blog Posts
 [My recent blog posts.](https://www.zhihu.com/people/yhr-8-84/posts)
 

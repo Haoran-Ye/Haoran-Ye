@@ -12,9 +12,6 @@
 ## How to Reach Me
 Haoran-Ye@outlook.com
 
-## Recent Blog Posts
-[My recent blog posts.](https://www.zhihu.com/people/yhr-8-84/posts)
-
 
 <!--
 **YeHaoran-KL/YeHaoran-KL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

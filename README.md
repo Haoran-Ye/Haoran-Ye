@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Haoran Ye (叶皓然).</div>  
-### <div align="center"> Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/Haoran-Ye/count.svg) vistor! </div>  
+### <div align="center"> Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/Haoran-Ye/count.svg) visitor! </div>  
   
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Haoran-Ye&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  

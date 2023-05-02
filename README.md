@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Haoran Ye (叶皓然).</div>  
+### <div align="center">Hi there! I'm Haoran Ye (叶皓然).</div>  
 ### <div align="center"> Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/Haoran-Ye/count.svg) visitor! </div>  
   
 <!-- ## Github Stats  

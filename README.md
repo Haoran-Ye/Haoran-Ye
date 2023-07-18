@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
-</div>  
-  
-
-### <div align="center">Hi there! I'm Haoran Ye (叶皓然). Welcome!</div>  
+### <div align="center">Hi there🙋! I'm Haoran Ye (叶皓然). Welcome!</div>  
 ### <div align="center">I enjoy coding and contributing to AI-empowered decision-making for the benefit of humanity.</div>  
   
 <!-- ## Github Stats  

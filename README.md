@@ -1,5 +1,5 @@
-### <div align="center">Hi there🙋! I'm Haoran Ye (叶皓然). Welcome!</div>  
-### <div align="center">I enjoy coding and contributing to AI-empowered decision-making for the benefit of humanity.</div>  
+### <div align="center">Hi there🙋! I'm Haoran Ye (叶皓然). Welcome✨!</div>  
+### <div align="center">I enjoy coding and contributing to AI-powered decision-making for the benefit of humanity.</div>  
   
 <!-- ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Haoran-Ye&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->

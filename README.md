@@ -1,5 +1,5 @@
-### <div align="center">Hi there 🙋! I'm Haoran Ye (叶皓然), an enthusiastic AI learner 🤩!</div>  
-### <div align="center">I am currently a senior undergraduate student at Soochow University and will be pursuing a Ph.D. degree at the School of Intelligence Science & Technology, Peking University.</div>  
+### Hi there 🙋! I'm Haoran Ye (叶皓然), an enthusiastic AI learner 🤩! 
+### I am currently a senior undergraduate student at Soochow University and will be pursuing a Ph.D. degree at the School of Intelligence Science & Technology, Peking University. 
   
 <!-- ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Haoran-Ye&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
